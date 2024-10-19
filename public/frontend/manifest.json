@@ -1,7 +1,7 @@
 {
   "name": "StreetLights",
   "short_name": "StreetLights",
-  "start_url": "https://streetlight-management.heroku.com/",   
+  "start_url": "https://streetlights.onrender.com/",   
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#ffffff",
