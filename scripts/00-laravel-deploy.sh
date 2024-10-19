@@ -27,4 +27,8 @@ php artisan migrate --force
  echo "Seeding database..."
  php artisan db:seed --force
 
+echo "Running vite..."
+npm install
+npm run build
+
 echo "Setup complete!"
